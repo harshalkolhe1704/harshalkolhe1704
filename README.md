@@ -21,37 +21,44 @@
   </a>
 </p>
 
-<!-- 💻 Tech Stack -->
-<h2 align="">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> 
+<!-- Tech Stack Section -->
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
   Tech Stack
 </h2>
 
-<div style="display: flex;  gap: 32px; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1 1 350px; min-width: 300px;">
-    <h3>🚀 Languages & Core Technologies</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
-    </p>
-    <h3>🎨 Frontend Development</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&theme=dark" />
-    </p>
-  </div>
+<table width="100%">
+  <tr >
+    <td width="50%" valign="top">
+      <h3>🚀 Languages & Core Technologies</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" height="48"/>
+      </p>
+      <h3>🎨 Frontend Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind&theme=dark" height="48"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & Database</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=django,hibernate,redis,mysql&theme=dark" height="48"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+        <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+      </p>
+      <h3>🛠️ Development Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,npm,maven&theme=dark" height="48"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <div style="flex: 1 1 350px; min-width: 300px;">
-    <h3>⚙️ Backend & Database</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=django,mysql&theme=dark" />
-      <br><br>
-      <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-    </p>
-    <h3>🛠️ Development Tools</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=github,postman&theme=dark" />
-    </p>
-  </div>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 📊 GitHub Stats -->
 <h2 align="">
